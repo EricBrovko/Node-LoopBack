@@ -1,0 +1,15 @@
+{
+  "db": {
+    "host": "127.0.0.1",
+    "port": 5432,
+    "url": "postgres://postgres:postgres@127.0.0.1/postgres",
+    "database": "postgres",
+    "name": "db",
+    "password": "postgres",
+    "user": "postgres",
+    "connector": "postgresql",
+    "min": 5,
+    "max": 200,
+    "idleTimeoutMillis": 60000
+  }
+}
